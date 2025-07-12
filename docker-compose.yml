@@ -1,7 +1,6 @@
-version: "4.1"
 
 services:
-  frontend:
+  qrgenerator:
     build:
       context: .
       dockerfile: Dockerfile
