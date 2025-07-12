@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     images: ["https://qrgenerator.giriabhishek.com.np/qrcode-icon.png"],
   },
   icons: {
-    icon: "/faviconq.ico",
+    icon: "favicon.ico",
   },
 };
 
