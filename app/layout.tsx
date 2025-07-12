@@ -23,16 +23,16 @@ export const metadata: Metadata = {
     "qr code online",
     "qr code download",
   ],
-  authors: [{ name: "Your Name", url: "https://qrcode.giriabhishek.com.np" }],
+  authors: [{ name: "Your Name", url: "https://qrgenerator.giriabhishek.com.np" }],
   openGraph: {
     title: "Free QR Code Generator | Create Custom QR Codes Instantly",
     description:
       "Generate free QR codes for URLs, text, emails, and more. No registration required.",
-    url: "https://qrcode.giriabhishek.com.np",
+    url: "https://qrgenerator.giriabhishek.com.np",
     siteName: "Free QR Code Generator",
     images: [
       {
-        url: "https://qrcode.giriabhishek.com.np/qrcode-icon.png",
+        url: "https://qrgenerator.giriabhishek.com.np/qrcode-icon.png",
         width: 1200,
         height: 630,
       },
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     title: "Free QR Code Generator | Create Custom QR Codes Instantly",
     description:
       "Generate free QR codes for URLs, text, emails, and more. No registration required.",
-    images: ["https://qrcode.giriabhishek.com.np/qrcode-icon.png"],
+    images: ["https://qrgenerator.giriabhishek.com.np/qrcode-icon.png"],
   },
   icons: {
     icon: "/faviconq.ico",
